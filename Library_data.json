@@ -1,0 +1,66 @@
+{
+    "books": [
+        {
+            "name": "math4",
+            "id": "100",
+            "total_quantity": 3,
+            "total_borrowed": 0
+        },
+        {
+            "name": "math2",
+            "id": "101",
+            "total_quantity": 5,
+            "total_borrowed": 0
+        },
+        {
+            "name": "math1",
+            "id": "102",
+            "total_quantity": 4,
+            "total_borrowed": 0
+        },
+        {
+            "name": "math3",
+            "id": "103",
+            "total_quantity": 2,
+            "total_borrowed": 2
+        },
+        {
+            "name": "prog1",
+            "id": "201",
+            "total_quantity": 3,
+            "total_borrowed": 0
+        },
+        {
+            "name": "prog2",
+            "id": "202",
+            "total_quantity": 3,
+            "total_borrowed": 0
+        }
+    ],
+    "users": [
+        {
+            "name": "mostafa",
+            "id": "30301",
+            "borrowed_books": [
+                "math3"
+            ]
+        },
+        {
+            "name": "ali",
+            "id": "50501",
+            "borrowed_books": []
+        },
+        {
+            "name": "noha",
+            "id": "70701",
+            "borrowed_books": [
+                "math3"
+            ]
+        },
+        {
+            "name": "ashraf",
+            "id": "90901",
+            "borrowed_books": []
+        }
+    ]
+}
