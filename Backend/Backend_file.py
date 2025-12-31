@@ -1,5 +1,5 @@
-from Book_Management.Book_file import Book
-from User_Management.User_file import User
+from .Book_file import Book
+from .User_file import User
 import json
 
 
